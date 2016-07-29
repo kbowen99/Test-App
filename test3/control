@@ -1,0 +1,9 @@
+Package: com.kbowen99.test3
+Name: Test3
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: Kbowen99
+Author: Kbowen99
+Section: Utilities
